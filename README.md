@@ -1,4 +1,3 @@
-# Preethi personal portfolio
 # Output
 
 
